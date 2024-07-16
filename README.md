@@ -1,7 +1,7 @@
 ## Hello, World! 👋
 ### My name is ***Damon Mazurek***
 
-I am studying Software Engineering at The University of Calgary. <br />
+I am currently studying my degree in Software Engineering at the University of Calgary. <br />
 I enjoy learning backend development and have an interest in embedded software development! <br />
 
 ## ⌨️ Languages I Use
