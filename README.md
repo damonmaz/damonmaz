@@ -2,7 +2,7 @@
 ### My name is ***Damon Mazurek***
 
 I am currently pursuing a degree in Software Engineering at the University of Calgary. <br />
-I enjoy learning backend development and have an interest in embedded software development! <br />
+I enjoy learning backend development and have an interest in data transfer and networking! <br />
 
 ## ⌨️ Languages I Use
 [<img src='https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white' alt='C' height='40'>](https://en.cppreference.com/w/c)
