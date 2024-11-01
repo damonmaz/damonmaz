@@ -27,11 +27,11 @@ I enjoy learning backend development and have an interest in data transfer and n
 
 
 ## 🗣️ My Clubs
-#### Currently
+#### Current
 [<img src='https://essucalgary.com/images/teams/ssrt/ssrt.png' alt='SSRT' height='40'>](https://ucalgaryrover.weebly.com/)
 [<img src='https://avatars.githubusercontent.com/u/26998356?s=64&v=4' alt='ZOO' height='40'>](https://zooengg.ca/)
 
-#### Previously
+#### Previous
 [<img src='https://embeddedinembedded.com/wp-content/uploads/2023/08/cropped-EIE-White-Logo-Hi-Res.png' alt='EIE' height='40'>](https://embeddedinembedded.com/)
 <img src='https://media.licdn.com/dms/image/v2/D560BAQEn7PgSUA9rfw/company-logo_100_100/company-logo_100_100/0/1693164117015/ac_robotics_logo?e=1738800000&v=beta&t=KIk_9bUK-6YEXUFi4C-hlYfrdZxu_NGJdx08FpmdxhQ' alt='AR Robotics' height='40'>
 
