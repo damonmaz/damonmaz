@@ -27,7 +27,7 @@ I enjoy learning backend development and have an interest in data transfer and n
 
 
 ## 🗣️ My teams
-[<img src='https://ucalgaryrover.weebly.com/uploads/1/2/7/5/127594213/editor/ssrt-patch-logo-good-copy.png?1684434714' alt='SSRT' height='40'>](https://ucalgaryrover.weebly.com/)
+[<img src='https://essucalgary.com/images/teams/ssrt/ssrt.png' alt='SSRT' height='40'>](https://ucalgaryrover.weebly.com/)
 [<img src='https://avatars.githubusercontent.com/u/26998356?s=64&v=4' alt='SSRT' height='40'>](https://zooengg.ca/)
 
 ## 🌐 My Links:
