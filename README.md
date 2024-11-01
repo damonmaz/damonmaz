@@ -26,6 +26,16 @@ I enjoy learning backend development and have an interest in data transfer and n
 ![MPLAB X](https://img.shields.io/badge/MPLAB%20X-grey.svg?style=for-the-badge&logo=microchip&logoColor=white)
 
 
+## 🗣️ My teams
+<table style='border:none'>
+  <thread align="center">
+    <td><b> <a href="https://github.com/zoouofc" tagret="_blank" rel="Software and Electrical Student Society"><img alt="Software and Electrical Student Society" src="https://avatars.githubusercontent.com/u/26998356?s=64&v=4" width="50"/>
+  </b></td>
+  </b></td>
+    <td><b> <a href="https://github.com/ucalgary-rover" tagret="_blank" rel="Ucalgary-Rover"><img alt="Ucalgary-Rover" src="https://cdn.discordapp.com/attachments/988631666048266310/1030174531144392785/ssrt_patch_logo_good_copy_1.png" width="50"/>
+  </b></td>
+</table>
+
 ## 🌐 My Links:
 [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/damonmaz)
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://ca.linkedin.com/in/damonmazurek)
