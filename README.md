@@ -10,10 +10,7 @@ I enjoy learning backend development and have an interest in data transfer and n
 [<img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white' alt='Python' height='40'>](https://www.python.org/)
 [<img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' alt='Java' height='40'>](https://docs.oracle.com/en/java/)
 [<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL' height='40'>](https://dev.mysql.com/doc/)
-
-[<img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1' alt='JavaScript' height='40'>](https://www.javascript.com/)
-[<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='HTML5' height='40'>](https://html5.org/)
-[<img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white' alt='CSS' height='40'>](https://www.w3.org/Style/CSS/Overview.en.html)
+[<img src='https://img.shields.io/badge/SystemVerilog-FFB71B?style=for-the-badge&logo=verilog&logoColor=white' alt='SystemVerilog' height='40'>](https://en.wikipedia.org/wiki/SystemVerilog)
 [<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React' height='40'>](https://react.dev/)
 
 
@@ -23,7 +20,6 @@ I enjoy learning backend development and have an interest in data transfer and n
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MPLAB X](https://img.shields.io/badge/MPLAB%20X-grey.svg?style=for-the-badge&logo=microchip&logoColor=white)
 
 
 ## 🗣️ My Clubs
