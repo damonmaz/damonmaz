@@ -2,7 +2,7 @@
 ### My name is ***Damon Mazurek***
 
 I am currently pursuing a degree in Software Engineering at the University of Calgary. <br />
-I enjoy learning backend development and have an interest in data transfer and networking! <br />
+I enjoy learning backend development and have an interest in networking and data analysis! <br />
 
 ## ⌨️ Languages I Use
 [<img src='https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white' alt='C' height='40'>](https://en.cppreference.com/w/c)
@@ -18,11 +18,11 @@ I enjoy learning backend development and have an interest in data transfer and n
 [<img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' alt='Windows' height='40'>](https://www.microsoft.com/windows)
 [<img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' alt='Linux' height='40'>](https://www.kernel.org/)
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[<img src='https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white' alt='Arduino' height='40'>](https://www.arduino.cc/)
+[<img src='https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white' alt='Docker' height='40'>](https://www.docker.com/)
+[<img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white' alt='Git' height='40'>](https://git-scm.com/)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[<img src='https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white' alt='VS Code' height='40'>](https://code.visualstudio.com/)
 
 
 ## 🗣️ My Clubs
