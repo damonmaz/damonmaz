@@ -12,7 +12,7 @@ I enjoy learning backend development and have an interest in networking and data
 [<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL' height='40'>](https://dev.mysql.com/doc/)
 [<img src='https://img.shields.io/badge/SystemVerilog-FFB71B?style=for-the-badge&logo=verilog&logoColor=white' alt='SystemVerilog' height='40'>](https://en.wikipedia.org/wiki/SystemVerilog)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenorYuen&hide_progress=false&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damonmaz&hide_progress=false&theme=dark&layout=compact)
 
 
 ## 🛠️ Other Tools
