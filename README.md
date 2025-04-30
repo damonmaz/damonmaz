@@ -21,7 +21,6 @@ I enjoy learning backend development and have an interest in networking and data
 
 [<img src='https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white' alt='Docker' height='40'>](https://www.docker.com/)
 [<img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white' alt='Git' height='40'>](https://git-scm.com/)
-[<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React' height='40'>](https://react.dev/)
 
 [<img src='https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white' alt='VS Code' height='40'>](https://code.visualstudio.com/)
 [<img src='https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white' alt='Arduino' height='40'>](https://www.arduino.cc/)
