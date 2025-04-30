@@ -33,12 +33,14 @@ I enjoy learning backend development and have an interest in networking and data
 
 
 ### Previous
+
 [<img src='https://embeddedinembedded.com/wp-content/uploads/2023/08/cropped-EIE-White-Logo-Hi-Res.png' alt='EIE' height='40'>](https://embeddedinembedded.com/)
 [<img src='https://media.licdn.com/dms/image/v2/D560BAQEn7PgSUA9rfw/company-logo_200_200/company-logo_200_200/0/1693164117015/ac_robotics_logo?e=1751500800&v=beta&t=GBxjIjR1WfcF2DpYJV45qRK6TR4cCbpj_d_eWFyS1Rk' alt='AR Robotics' height='40'>](https://www.linkedin.com/company/ac-robotics/)
 [<img src='https://avatars.githubusercontent.com/u/26998356?s=64&v=4' alt='ZOO' height='40'>](https://zooengg.ca/)
 
 
 ## 🌐 My Links:
+
 [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/damonmaz)
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://ca.linkedin.com/in/damonmazurek)
 
