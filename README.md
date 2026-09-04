@@ -10,7 +10,6 @@ I enjoy learning backend development and have an interest in networking and data
 [<img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white' alt='Python' height='40'>](https://www.python.org/)
 [<img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' alt='Java' height='40'>](https://docs.oracle.com/en/java/)
 [<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL' height='40'>](https://dev.mysql.com/doc/)
-[<img src='https://img.shields.io/badge/SystemVerilog-FFB71B?style=for-the-badge&logo=verilog&logoColor=white' alt='SystemVerilog' height='40'>](https://en.wikipedia.org/wiki/SystemVerilog)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damonmaz&hide_progress=false&theme=dark&layout=compact)
 
@@ -22,24 +21,17 @@ I enjoy learning backend development and have an interest in networking and data
 [<img src='https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white' alt='Docker' height='40'>](https://www.docker.com/)
 [<img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white' alt='Git' height='40'>](https://git-scm.com/)
 
-[<img src='https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white' alt='VS Code' height='40'>](https://code.visualstudio.com/)
-[<img src='https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white' alt='Arduino' height='40'>](https://www.arduino.cc/)
-
 
 ## 🗣️ My Clubs
 
 ### Current
-
-[<img src='https://essucalgary.com/images/teams/ssrt/ssrt.png' alt='SSRT' height='40'>](https://ucalgaryrover.weebly.com/)
+Schulich Space Rover Team
 
 
 ### Previous
-
-[<img src='https://embeddedinembedded.com/wp-content/uploads/2023/08/cropped-EIE-White-Logo-Hi-Res.png' alt='EIE' height='40'>](https://embeddedinembedded.com/)
-
-[<img src='https://media.licdn.com/dms/image/v2/D560BAQEn7PgSUA9rfw/company-logo_200_200/company-logo_200_200/0/1693164117015/ac_robotics_logo?e=1751500800&v=beta&t=GBxjIjR1WfcF2DpYJV45qRK6TR4cCbpj_d_eWFyS1Rk' alt='AR Robotics' height='40'>](https://www.linkedin.com/company/ac-robotics/)
-
-[<img src='https://avatars.githubusercontent.com/u/26998356?s=64&v=4' alt='ZOO' height='40'>](https://zooengg.ca/)
+Embedded in Embedded
+AC Robotics
+Electrical and Software Engineering Student's Society (ZOO)
 
 
 ## 🌐 My Links:
