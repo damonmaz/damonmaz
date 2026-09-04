@@ -23,13 +23,13 @@ I enjoy learning backend development and have an interest in networking and data
 ## 🗣️ My Clubs
 
 ### Current
-Schulich Space Rover Team
+- Schulich Space Rover Team
 
 
 ### Previous
-Embedded in Embedded
-AC Robotics
-Electrical and Software Engineering Student's Society (ZOO)
+- Embedded in Embedded
+- AC Robotics
+- Electrical and Software Engineering Student's Society (ZOO)
 
 
 ## 🌐 My Links:
